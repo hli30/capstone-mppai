@@ -8,4 +8,4 @@ An image classification task. Goal is to determining whether or not images of bl
 to the MNIST classification task.
 
 Public score: Log loss 0.20 (this is ~95% accuracy)
-Ranked 46th out of 389 competitors, as of May 10th, 2019.
+Ranked 64th out of 439 competitors, as of June 21st, 2019.
