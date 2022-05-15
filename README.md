@@ -2,7 +2,7 @@
 
 Due to competition rules, dataset is not disclosed. Only the script is published.
 
-An image classification task. Goal is to determining whether or not images of blood smear samples are infected with malaria. Similar
+An image classification task. Goal is to determine whether or not images of blood smear samples are infected with malaria. Similar
 to the MNIST classification task.
 
 Public score: Log loss 0.20 (this is ~95% accuracy)
